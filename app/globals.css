@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background: #0b0f12;
+  --accent: #00ffd5;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: var(--background);
+  overflow-x: hidden;
+}
+
+/* Smooth transitions for all interactive elements */
+a,
+button,
+input,
+textarea {
+  transition: all 0.3s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00ccaa;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
