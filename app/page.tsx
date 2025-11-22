@@ -300,19 +300,21 @@ export default function Home() {
                 />
               </div>
               <p className="text-gray-400 leading-relaxed">
-                As a Full Stack Engineer and Computer Science student at King
-                Faisal University, I specialize in building scalable,
-                AI-enhanced web applications using modern frameworks like
-                React.js, Next.js, and Python. My background includes developing
-                secure backends with ORM databases, deploying full-stack
-                projects to production, and creating dynamic user interfaces
-                with Tailwind CSS. I bring strong experience in integrating
-                Generative AI into applications—ranging from content creation
-                tools to sentiment analysis systems—bridging cutting-edge
-                technology with real-world use cases. Backed by certifications
-                in Python, Data Analysis, and Machine Learning, I am driven by
-                continuous learning and a passion for solving complex problems
-                through innovative software solutions.
+                Fresh Computer Science graduate and full-stack software engineer
+                with a strong foundation in building scalable, user-focused web
+                applications using React, Angular, Python Flask, and modern UI
+                systems like Tailwind and Shadcn. I have delivered
+                production-ready solutions for real users, including AI-powered
+                tools, and content automation platforms, always prioritizing
+                clean architecture, maintainability, and performance. My
+                experience spans frontend clean UI, backend logic, ORM-based
+                data modeling, thoughtful API integrations, and deployment to
+                production environments. Beyond technical execution, I bring
+                experience in workshops, mentoring, and collaborating with
+                cross-functional teams to transform ideas into maintainable
+                digital products. As a fresh graduate, I am intentionally
+                positioning myself for environments that value long-term
+                engineering thinking, and scalable systems.
               </p>
             </div>
 
@@ -469,8 +471,8 @@ export default function Home() {
                 { name: "PostgreSQL", icon: SiPostgresql },
                 { name: "MySQL", icon: SiMysql },
                 { name: "Git", icon: SiGit },
-                { name: "Docker", icon: SiDocker }, 
-                { name: "AWS", icon: FaAws }, 
+                { name: "Docker", icon: SiDocker },
+                { name: "AWS", icon: FaAws },
                 { name: "DigitalOcean", icon: SiDigitalocean },
                 { name: "Linux", icon: SiLinux },
                 { name: "PyTorch", icon: SiPytorch },
