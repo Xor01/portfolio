@@ -323,7 +323,7 @@ export default function Home() {
               <div className="space-y-4 mb-8">
                 <div className="border-l-2 border-[#00ffd5]/20 pl-4">
                   <p className="text-sm text-gray-500">
-                    August 2020 - December 2025
+                    August 2020 - November 2025
                   </p>
                   <h4 className="font-bold">King Faisal University</h4>
                   <p className="text-gray-400">
