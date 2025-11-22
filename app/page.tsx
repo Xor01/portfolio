@@ -571,10 +571,10 @@ export default function Home() {
             <div className="text-center py-12">
               <p className="text-gray-400 mb-6">Reach me directly at:</p>
               <a
-                href="mailto:m.abdulmuhsin@outlook.com"
+                href="mailto:me@xor01.com"
                 className="inline-block px-8 py-3 bg-[#00ffd5] text-[#0b0f12] font-bold rounded hover:bg-[#00ffd5]/90 transition-colors text-lg"
               >
-                m.abdulmuhsin@outlook.com
+                me@xor01.com
               </a>
             </div>
           </div>
