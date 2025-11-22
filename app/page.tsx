@@ -327,9 +327,11 @@ export default function Home() {
                   </p>
                   <h4 className="font-bold">King Faisal University</h4>
                   <p className="text-gray-400">
-                    Bachelor - Computer Science and Information Technology
+                    B.S. in Computer Science and Information Technology
                   </p>
-                  <p className="text-[#00ffd5] text-sm mt-1">GPA: 4.30/5</p>
+                  <p className="text-[#00ffd5] text-sm mt-1">
+                    Gradated with honor
+                  </p>
                 </div>
               </div>
 
